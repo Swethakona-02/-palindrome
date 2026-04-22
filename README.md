@@ -1,6 +1,6 @@
 # -palindrome
 num=int(input())
 if num==num[::-1]:
-print("palindrome")
+  print("palindrome")
 else:
-print("Not palindrome")
+  print("Not palindrome")
